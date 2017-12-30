@@ -10,11 +10,11 @@ $ python main.py 'hoge'
 
 ### slackで webhook を設定
 
-slackでwebhookを設定して、webhook用のURLを取得しておく。
+slackでwebhookを設定して、webhook用のURLを取得しておく。
 
 ### 上記設定を setting.ini に記載
 
-`../setting.ini`  を作成して以下を追記。
+`../setting.ini`  を作成して以下を追記。
 
 ```
 [slack]
